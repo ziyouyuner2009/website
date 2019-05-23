@@ -1,9 +1,9 @@
 #landing
 - id: header_resilient_platform
-  translation: Ergo is a Resilient Platform
+  translation: Ergo is a Resilient Platform    儿歌
 
 - id: header_contractual_money
-  translation: for Contractual Money
+  translation: for Contractual Money  
 
 - id: getting_started
   translation: Getting started with Ergo
